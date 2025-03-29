@@ -14,26 +14,26 @@ public class MusicInterface {
             switch (choice) {
                 case 1:
                     music.ER();
-                    databasecommand.getER();
+                    databasecommand.getArtist("E.R");
                     break;
                 case 2:
                     music.Donready();
-                    databasecommand.getDonready();
+                    databasecommand.getArtist("Don Ready");
                     break;
                 case 3:
                     music.Kieran();
-                    databasecommand.getKieran();
+                    databasecommand.getArtist("Kieran");
                     break;
                 case 4:
                     music.Rst();
-                    databasecommand.getRst();
+                    databasecommand.getArtist("Rst");
                     break;
                 case 5:
                     music.AngieRose();
-                    databasecommand.getAngieRose();
+                    databasecommand.getArtist("Angie Rose");
                     break;
                 default:
-                    databasecommand.getAllArstist();
+                    databasecommand.getAllArtist();
 
             }
         }
