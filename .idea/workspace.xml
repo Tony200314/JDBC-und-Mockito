@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e7dfc59-2540-47f8-8c95-a1de1663c2fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tony200314&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tony200314/JDBC-und-Mockito.git&quot;,
+    &quot;accountId&quot;: &quot;d1538acc-c4ac-437c-b997-e27c9396b2e0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tcfhE6bmDkR6aUFELpTlAT9NPQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Databaseconnect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceLanterna.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicAppGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseCommandTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseCommandTest.getArtist_ShouldReturnArtistInfo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestArtist.TestGetEr.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestArtist.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestArtist.testGetAllArtists.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Workingbranch&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/wichtig tony/3 Semester/Prog 3/connectJdbcdriver/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wichtig tony\3 Semester\Prog 3\connectJdbcdriver\src\main\resources" />
+      <recent name="C:\wichtig tony\3 Semester\Prog 3\connectJdbcdriver\src\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wichtig tony\3 Semester\Prog 3\connectJdbcdriver\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseCommandTest.getArtist_ShouldReturnArtistInfo">
+    <configuration name="DatabaseCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="connectJdbcdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseCommandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseCommandTest.getArtist_ShouldReturnArtistInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="connectJdbcdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseCommandTest" />
+      <option name="METHOD_NAME" value="getArtist_ShouldReturnArtistInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArtist.TestGetEr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="connectJdbcdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArtist" />
+      <option name="METHOD_NAME" value="TestGetEr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArtist.testGetAllArtists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="connectJdbcdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArtist" />
+      <option name="METHOD_NAME" value="testGetAllArtists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseCommandTest.getArtist_ShouldReturnArtistInfo" />
+        <item itemvalue="JUnit.DatabaseCommandTest" />
+        <item itemvalue="JUnit.TestArtist.testGetAllArtists" />
+        <item itemvalue="JUnit.TestArtist.TestGetEr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e7dfc59-2540-47f8-8c95-a1de1663c2fd" name="Changes" comment="" />
+      <created>1740656404796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740656404796</updated>
+      <workItem from="1740656406945" duration="4391000" />
+      <workItem from="1740773019211" duration="691000" />
+      <workItem from="1741250642955" duration="13408000" />
+      <workItem from="1741593024958" duration="1511000" />
+      <workItem from="1741616199393" duration="5102000" />
+      <workItem from="1741629630253" duration="4049000" />
+      <workItem from="1741783909611" duration="2093000" />
+      <workItem from="1741838726586" duration="1739000" />
+      <workItem from="1741842040719" duration="5135000" />
+      <workItem from="1742139047516" duration="9833000" />
+      <workItem from="1742204314479" duration="523000" />
+      <workItem from="1742459616355" duration="1647000" />
+      <workItem from="1742475812810" duration="1144000" />
+      <workItem from="1743240535085" duration="7270000" />
+      <workItem from="1743362057066" duration="859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

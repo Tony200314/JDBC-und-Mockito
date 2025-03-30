@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-api-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Funtocode/xerial-sqlite-jdbc-b9983e6/lib/jdbc-api-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
