@@ -18,6 +18,3 @@ This repository is mainly a learning and practice project for:
 - using external libraries
 - writing tests with Mockito
 
-## Note
-
-The project will be expanded and improved over time.
