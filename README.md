@@ -1,3 +1,23 @@
-# JDBC-und-Mockito
-A project where I try to connect the database in my code with JDBC Driver ( also to make the project fun I added some Music at it with Sound API from Java ) 
-to ensure that the different implemented method work I test this with Mockito
+# JDBC and Mockito
+
+A small Java project in which I practice connecting to a database using a JDBC driver. To make the project more fun, I also added some music using Java's Sound API.
+
+To ensure that the implemented methods work correctly, I use Mockito for testing.
+
+## What this project includes
+
+- Database access with JDBC
+- Audio/music features using the Java Sound API
+- Unit tests with Mockito
+
+## Project goal
+
+This repository is mainly a learning and practice project for:
+
+- working with database access in Java
+- using external libraries
+- writing tests with Mockito
+
+## Note
+
+The project will be expanded and improved over time.
